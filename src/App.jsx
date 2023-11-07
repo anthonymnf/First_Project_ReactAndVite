@@ -10,7 +10,9 @@ function App() {
         <li>Criar novos componentes</li>
         <li>Estilizar os componentes</li>
         <li>Reutilizar componentes</li>
+        <li>Depois dos passos acima irei aprender Next.js</li>
       </ul>
+      <p>O Vite facilita muito na construção de projetos React</p>
     </div>
   );
 }
